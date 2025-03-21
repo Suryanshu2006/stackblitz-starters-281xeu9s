@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "stackblitz_assignment",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
